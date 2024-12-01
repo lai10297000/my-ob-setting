@@ -1,0 +1,60 @@
+.cm-header-1 {
+  font-size: 27.2px;
+  color: #9f8cb7;
+}
+
+.markdown-preview-section h1 {
+  font-size: 27.2px;
+  color: #9f8cb7;
+}
+
+.cm-header-2 {
+  /* margin-bottom: 100px; not work */
+  font-size: 24px;
+  color: #6a80b3;
+}
+
+.markdown-preview-section h2 {
+  font-size: 24px;
+  color: #6a80b3;
+}
+
+.cm-header-3 {
+  font-size: 19px;
+  color: #94BDE5;
+}
+
+.markdown-preview-section h3 {
+  font-size: 19px;
+  color: #94BDE5;
+}
+
+.cm-header-4 {
+  font-size: 17px;
+  color: #71beb4;
+}
+
+.markdown-preview-section h4 {
+  font-size: 17px;
+  color: #71beb4;
+}
+
+.cm-header-5 {
+  font-size: 16px;
+  color: #f3da9f;
+}
+
+.markdown-preview-section h5 {
+  font-size: 16px;
+  color: #f3da9f;
+}
+
+.cm-header-6 {
+  font-size: 16px;
+  color: #f19caf;
+}
+
+.markdown-preview-section h6 {
+  font-size: 16px;
+  color: #f19caf;
+}
