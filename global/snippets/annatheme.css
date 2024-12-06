@@ -1,0 +1,95 @@
+.cm-header-1 {
+  font-size: 27.2px;
+  color: #9f8cb7;
+}
+
+.markdown-preview-section h1 {
+  font-size: 27.2px;
+  color: #9f8cb7;
+}
+
+.cm-header-2 {
+  font-size: 24px;
+  color: #6a80b3;
+}
+
+.markdown-preview-section h2 {
+  font-size: 24px;
+  color: #6a80b3;
+}
+
+.cm-header-3 {
+  font-size: 19px;
+  color: #94BDE5;
+}
+
+.markdown-preview-section h3 {
+  font-size: 19px;
+  color: #94BDE5;
+}
+
+.cm-header-4 {
+  font-size: 17px;
+  color: #71beb4;
+}
+
+.markdown-preview-section h4 {
+  font-size: 17px;
+  color: #71beb4;
+}
+
+.cm-header-5 {
+  font-size: 16px;
+  color: #f3da9f;
+}
+
+.markdown-preview-section h5 {
+  font-size: 16px;
+  color: #f3da9f;
+}
+
+.cm-header-6 {
+  font-size: 16px;
+  color: #f19caf;
+}
+
+.markdown-preview-section h6 {
+  font-size: 16px;
+  color: #f19caf;
+}
+
+hr{
+  border-color: #909090;
+}
+
+
+
+/* Code Block */
+.cm-s-obsidian pre.HyperMD-codeblock {
+  background-color: #000000;
+  color: #ffffff;
+  font-family: "MesloLGS NF", monospace;
+  font-size: 11px;
+  border-radius: 4px;
+  padding: 8px;
+  line-height: 1.5;
+}
+
+.cm-keyword { color: #F19CAF; }
+.cm-variable { color: #F3DA9F; }
+.cm-string { color: #81a2ed; }
+.cm-number { color: #9DCCB5; }
+.cm-builtin { color: #9F8CB7; }
+.cm-comment { color: #d0d0d0; }
+.cm-operator { color: #7ccac0; }
+.cm-atom { color: #D8D1CA; }
+
+.token.keyword { color: #F19CAF; }
+.token.variable { color: #F3DA9F; }
+.token.string { color: #81a2ed; }
+.token.number { color: #9DCCB5; }
+.token.builtin { color: #9F8CB7; }
+.token.comment { color: #d0d0d0; }
+.token.operator { color: #7ccac0; }
+.token.atom { color: #D8D1CA; }
+
